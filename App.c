@@ -8,4 +8,5 @@ void Init_App()
 void App_Main()
 {
     printf("Application is started...\n\n");
+    printf("A module1 is started...\n\n");
 }
